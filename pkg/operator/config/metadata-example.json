@@ -2,6 +2,6 @@
   "name": "NodeShop",
   "website": "https://twitter.com/AamirAlam201096",
   "description": "Nodeshop is a team of devs who run nodes",
-  "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png",
+  "logo": "https://raw.githubusercontent.com/AamirAlam/eigenlayer-cli/patch-1/pkg/operator/config/logo.png",
   "twitter": "https://twitter.com/AamirAlam201096"
 }
